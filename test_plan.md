@@ -37,4 +37,3 @@ The automation covers the following flows:
 - Detect rendering issues and UI regressions early  
 - Validate visibility rules against real campaign configurations  
 - Ensure popup state matches Inspector state  
-- Co
